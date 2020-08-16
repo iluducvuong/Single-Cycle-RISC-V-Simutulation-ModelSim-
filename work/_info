@@ -1,0 +1,292 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Modelsim/RISC-V
+vALU
+Z0 !s110 1594227753
+!i10b 1
+!s100 aWIFYmdgDo8[FbT7MUZW71
+I:Z[i@UEe9LS[PH3QDP7Un0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Modelsim/RISC-V2
+w1593884592
+8F:/Modelsim/RISC-V2/ALU.v
+FF:/Modelsim/RISC-V2/ALU.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1594227752.000000
+!s107 F:/Modelsim/RISC-V2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/ALU.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vBranchComp
+R0
+!i10b 1
+!s100 GaW8[U2LO[i=oZ;V<JI3^3
+IXga`P1Xga1z=bnMF<IjQ92
+R1
+R2
+w1593885934
+8F:/Modelsim/RISC-V2/BranhComp.v
+FF:/Modelsim/RISC-V2/BranhComp.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z5 !s108 1594227753.000000
+!s107 F:/Modelsim/RISC-V2/BranhComp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/BranhComp.v|
+!s101 -O0
+!i113 1
+R4
+n@branch@comp
+vControl_Unit
+R0
+!i10b 1
+!s100 `Pb``8iC>HQSPj1hBWkI63
+I[`TY3z>7RgK5EJ6:mRKBb3
+R1
+R2
+w1593884659
+8F:/Modelsim/RISC-V2/Control_Unit.v
+FF:/Modelsim/RISC-V2/Control_Unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R5
+!s107 F:/Modelsim/RISC-V2/Control_Unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/Control_Unit.v|
+!s101 -O0
+!i113 1
+R4
+n@control_@unit
+vDatapath
+R0
+!i10b 1
+!s100 9@>]Z1a@VGT>=6oIkjlBl1
+ID1ij]^GO3g=[So=YW?J>N0
+R1
+R2
+w1593886547
+8F:/Modelsim/RISC-V2/Datapath.v
+FF:/Modelsim/RISC-V2/Datapath.v
+L0 2
+R3
+r1
+!s85 0
+31
+R5
+!s107 F:/Modelsim/RISC-V2/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/Datapath.v|
+!s101 -O0
+!i113 1
+R4
+n@datapath
+vDMEM
+R0
+!i10b 1
+!s100 `CPHoWj@9oaH:joAEXgZP0
+Io<WMhmeS793BlnJ=MQ6dA3
+R1
+R2
+w1593883397
+8F:/Modelsim/RISC-V2/DMEM.v
+FF:/Modelsim/RISC-V2/DMEM.v
+L0 2
+R3
+r1
+!s85 0
+31
+R5
+!s107 F:/Modelsim/RISC-V2/DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/DMEM.v|
+!s101 -O0
+!i113 1
+R4
+n@d@m@e@m
+vIMEM
+R0
+!i10b 1
+!s100 SZA_m_5>UL8DnZ>;5f7Og3
+I=VgCaK22HnQKcTez2SlSQ2
+R1
+R2
+w1594227749
+8F:\Modelsim\RISC-V2\IMEM.v
+FF:\Modelsim\RISC-V2\IMEM.v
+L0 7
+R3
+r1
+!s85 0
+31
+R5
+!s107 F:\Modelsim\RISC-V2\IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\Modelsim\RISC-V2\IMEM.v|
+!s101 -O0
+!i113 1
+R4
+n@i@m@e@m
+vimm_gen
+Z6 !s110 1594227754
+!i10b 1
+!s100 WcLLi`SD]L1^B0^KGnnPa3
+I5az_LN=W2de;8nB?WYhQS3
+R1
+R2
+w1593886015
+8F:/Modelsim/RISC-V2/imm_gen.v
+FF:/Modelsim/RISC-V2/imm_gen.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1594227754.000000
+!s107 F:/Modelsim/RISC-V2/imm_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/imm_gen.v|
+!s101 -O0
+!i113 1
+R4
+vmux2
+R6
+!i10b 1
+!s100 `Cdi36eH72gCI]iUQ<mgQ0
+IFR7TaOl[58AD]hi355I2Q0
+R1
+R2
+w1593420058
+8F:/Modelsim/RISC-V2/mux2.v
+FF:/Modelsim/RISC-V2/mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:/Modelsim/RISC-V2/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/mux2.v|
+!s101 -O0
+!i113 1
+R4
+vmux3
+R6
+!i10b 1
+!s100 Zl9mn<iIhNYbTYcb6ieoH2
+IZo`AZkhFY8D4bJcVoa;<`2
+R1
+R2
+w1593420062
+8F:/Modelsim/RISC-V2/mux3.v
+FF:/Modelsim/RISC-V2/mux3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:/Modelsim/RISC-V2/mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/mux3.v|
+!s101 -O0
+!i113 1
+R4
+vPC
+R6
+!i10b 1
+!s100 YBhU=DI?]c<OfRaNdIia]3
+IZ`JhLnljNO7DSiz_G[W:j3
+R1
+R2
+w1593882052
+8F:/Modelsim/RISC-V2/PC.v
+FF:/Modelsim/RISC-V2/PC.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:/Modelsim/RISC-V2/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/PC.v|
+!s101 -O0
+!i113 1
+R4
+n@p@c
+vPCplus4
+R6
+!i10b 1
+!s100 hg7ABFahUbAgH]`[DV8oL3
+I^6S0z@fZkziICiY2i@[HV1
+R1
+R2
+w1593882012
+8F:/Modelsim/RISC-V2/PCplus4.v
+FF:/Modelsim/RISC-V2/PCplus4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:/Modelsim/RISC-V2/PCplus4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/PCplus4.v|
+!s101 -O0
+!i113 1
+R4
+n@p@cplus4
+vReg
+R6
+!i10b 1
+!s100 []n`Ef9on3C;a`kNa<zL[1
+I2h<KDak4gJ0;;k8CH[0F^1
+R1
+R2
+w1593886051
+8F:/Modelsim/RISC-V2/Reg.v
+FF:/Modelsim/RISC-V2/Reg.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:/Modelsim/RISC-V2/Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/Reg.v|
+!s101 -O0
+!i113 1
+R4
+n@reg
+vtb
+R6
+!i10b 1
+!s100 dW5Ma0zT?o=Wbz9]9=3g?1
+Ilb>km59do1TY72Lcn7[P43
+R1
+R2
+w1593884060
+8F:/Modelsim/RISC-V2/tb.v
+FF:/Modelsim/RISC-V2/tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:/Modelsim/RISC-V2/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Modelsim/RISC-V2/tb.v|
+!s101 -O0
+!i113 1
+R4

@@ -1,0 +1,92 @@
+F:/Modelsim/RISC-V2/Datapath.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/Datapath.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} F:/Modelsim/RISC-V2/IMEM.v {1 {vlog -work work -stats=none {F:\Modelsim\RISC-V2\IMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} F:/Modelsim/RISC-V2/Control_Unit.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/Control_Unit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Control_Unit
+
+Top level modules:
+	Control_Unit
+
+} {} {}} F:/Modelsim/RISC-V2/ALU.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} F:/Modelsim/RISC-V2/DMEM.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/DMEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} F:/Modelsim/RISC-V2/imm_gen.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/imm_gen.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} F:/Modelsim/RISC-V2/Reg.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/Reg.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Reg
+
+Top level modules:
+	Reg
+
+} {} {}} F:/Modelsim/RISC-V2/BranhComp.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/BranhComp.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BranchComp
+
+Top level modules:
+	BranchComp
+
+} {} {}} F:/Modelsim/RISC-V2/PCplus4.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/PCplus4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PCplus4
+
+Top level modules:
+	PCplus4
+
+} {} {}} F:/Modelsim/RISC-V2/PC.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/PC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} F:/Modelsim/RISC-V2/mux2.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/mux2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} F:/Modelsim/RISC-V2/mux3.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/mux3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} F:/Modelsim/RISC-V2/tb.v {1 {vlog -work work -stats=none F:/Modelsim/RISC-V2/tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}
